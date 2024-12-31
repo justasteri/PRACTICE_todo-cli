@@ -16,7 +16,7 @@ A simple command-line todo application written in Go.
 ## Installation
 
 1. Make sure you have Go installed on your system.
-2. Clone this repository: `https://github.com/justasteri/todo-cli`
+2. Clone this repository: `https://github.com/justasteri/PRACTICE_todo-cli`
 3. Navigate to the project directory: `cd todo-cli`
 4. Build the application: `go build`
 
