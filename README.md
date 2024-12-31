@@ -16,13 +16,13 @@ A simple command-line todo application written in Go.
 ## Installation
 
 1. Make sure you have Go installed on your system.
-2. Clone this repository: `git clone https://github.com/your-username/todo-app.git`
-3. Navigate to the project directory: `cd todo-app`
+2. Clone this repository: `https://github.com/justasteri/todo-cli`
+3. Navigate to the project directory: `cd todo-cli`
 4. Build the application: `go build`
 
 ## Usage
 
-`todo-app [command] [options]`
+`todo-cli [command] [options]`
 
 ### Commands:
 
@@ -70,23 +70,23 @@ Options:
 
 - **Add a new task:**
 
-todo-app --add "Buy groceries"
+`todo-cli --add "Buy groceries"`
 
 - **List all tasks:**
 
-todo-app --list
+`todo-cli --list`
 
-- **Mark the first task as complete:**
+- **Change the status of the task 1 to Doing:**
 
-todo-app --toggle 1
+`todo-cli --change_status 1:2`
 
-- **Edit the second task:**
+- **Update the second task:**
 
-todo-app --edit "2:Finish project report"
+`todo-cli --update "2:Finish project report"`
 
 - **Delete the third task:**
 
-todo-app --delete 3
+`todo-cli --delete 3`
 
 ## Data Storage
 
