@@ -92,6 +92,8 @@ Options:
 
 The application stores todo items in a JSON file named `todos.json` in the current directory.
 
+## Resources
+https://youtu.be/g16Zf0KQEWI?si=7LwKtliAWMerRmkw
 
 ## Contributing
 
