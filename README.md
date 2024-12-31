@@ -2,7 +2,7 @@
 
 A simple command-line todo application written in Go.
 
-> Practice project: https://roadmap.sh/projects/task-tracker
+> Practice project: https://roadmap.sh/projects/task-tracker/solutions?u=64d3087faa497d7fa5190888
 
 ## Features
 
